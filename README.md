@@ -5,5 +5,5 @@ Este repositório contém os arquivos e o código-fonte do Laboratório 1, com o
 **Desenvolvedores:**
 
 *   **Luan Petroucic Moreno** - RA: 22.122.076-7
-*   **Rafael** - RA: 22.122.000-0
+*   **Rafael** - RA: 22.122.103-9
 
